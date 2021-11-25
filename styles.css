@@ -1,0 +1,36 @@
+body{
+  background-color: #5bc3cf;
+}
+
+body h1{
+  font-size: 20px;
+}
+
+#navigation-bar{
+  background-color: orange;
+  border-style: ridge;
+  border-radius: 20px;
+  /* width: 100%; */
+}
+
+#navigation-bar h2{
+  display: inline-block;
+  padding-right: 30px;
+}
+
+#Location h2{
+  display: inline-block;
+  padding-right: 20px;
+}
+
+.under-sentence{
+  font-size: 20px;
+}
+
+.navigation-bar{
+  font-size: 15px;
+}
+
+#Location li{
+  font-size: 17px;
+}
